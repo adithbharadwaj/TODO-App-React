@@ -1,0 +1,14 @@
+/* css */
+ul {
+  padding: 10px;
+}
+li {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: blue;
+  border: 1px solid #dddddd;
+  text-align: center;
+  width: fit-content;
+}
